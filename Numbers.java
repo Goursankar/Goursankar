@@ -23,6 +23,7 @@ public class Numbers {
             System.out.println("Your grade received is F");
         }else{
             System.out.println("Entered percentage of marks is not between 1 to 100");
+            sc.close();
         }
     }
 }

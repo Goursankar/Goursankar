@@ -10,5 +10,6 @@ public class Factorial {
             System.out.print(i+"*");
         }
         System.out.print("=" + Fact + " Is the Factorial of the number " +n+ ".");
+        sc.close();
     }
 }

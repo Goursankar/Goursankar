@@ -26,6 +26,7 @@ public class Loop {
         do{                                                                                   //using do while loop
             System.out.println(n);                                                            //printing n
             n++;
-        }while(n<=10);                                                                        //checking if n<=10 or not
+        }while(n<=10);
+        sc.close();                                                                        //checking if n<=10 or not
     }
 }

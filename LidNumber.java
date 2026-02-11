@@ -17,6 +17,7 @@ public class LidNumber {
                 System.out.println("Entered number is a Lid number");
             }else{
                 System.out.println("Entered number is not a Lid number");
+                sc.close();
             }
         }
 

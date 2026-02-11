@@ -8,5 +8,6 @@ public class Count {
         for(int num=n;num>0;c++){
             num=num/10;
         } System.out.println("The number of digits present in the number " + n +" are " + c);
+        sc.close();
     }
 }

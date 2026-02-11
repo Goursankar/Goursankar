@@ -27,6 +27,7 @@ public class Operatorsbyswitchcase {
                 break;
             default:
                 System.out.println("The entered operator is invalid");
+                sc.close();
         }
     }
 }

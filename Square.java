@@ -12,6 +12,7 @@ public class Square {
             System.out.println("It is a Square and its area is "+(length*breadth));
         }else{
             System.out.println("It is not a Square");
+            sc.close();
         }
     }
 }

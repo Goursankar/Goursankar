@@ -13,6 +13,7 @@ public class PallindromeNo {
             System.out.println("The number entered " + num + " is a pallindrome number");
         }else{
             System.out.println("The number entered "+ num + " is not a pallindrome number");
+            sc.close();
         }
     }
 }

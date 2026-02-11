@@ -8,6 +8,7 @@ public class EvenOddCheck {
             System.out.println("The number entered is a Even number");
         }else{
             System.out.println("The number entered is a Odd number");
+            sc.close();
         }
     }
 }

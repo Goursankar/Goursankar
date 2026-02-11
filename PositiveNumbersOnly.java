@@ -10,6 +10,7 @@ public class PositiveNumbersOnly {
             System.out.println("Entered number is a positive number and the number entered multiplied by 9 is "+ number*9);
         }else{
             System.out.println(" entered number is a negative number hence it will be skipped,try entering a positive number to get result.");
+            sc.close();
         }
     }
 }

@@ -25,5 +25,6 @@ public class luckynumbers3 {
             }
         }
         System.out.println();
+        sc.close();
     }
 }

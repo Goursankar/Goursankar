@@ -11,6 +11,7 @@ public class Operators{
         System.out.println("multiplication="+ (a*b));
         System.out.println("division="+(a/b));
         System.out.println("remainder="+ (a%b));
+        sc.close();
 
     }
 }

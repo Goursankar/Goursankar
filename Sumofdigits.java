@@ -10,5 +10,6 @@ public class Sumofdigits {
             sum+=num%10;
             num=num/10;
         }System.out.println("The sum of digits in the number " + n +" is " + sum);
+        sc.close();
     }
 }

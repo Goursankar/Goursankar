@@ -14,6 +14,7 @@ class Main{
             System.out.println("Loss from the product sold is" + (cp - sp));
         }else{
             System.out.println("Neither Profit nor Loss from the product sold");
+            sc.close();
         }
     }
 }

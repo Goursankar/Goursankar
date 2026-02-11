@@ -9,6 +9,7 @@ public class AbsoluteValue {
             System.out.println("The absolute value of the number is " + (number = number * -1));
         }else{
             System.out.println("THe absolute value of the number is "+ number);
+            sc.close();
         }
     }
 }

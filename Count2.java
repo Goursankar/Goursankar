@@ -10,5 +10,6 @@ public class Count2 {
             c++;
         }
         System.out.println("The number of digits present in the number " + n +" are " + c);
+        sc.close();
     }
 }

@@ -29,6 +29,7 @@ public class Days {
                 break;
             default:
                 System.out.println("Entered day number is invalid");
+                sc.close();
         }
     }
 }

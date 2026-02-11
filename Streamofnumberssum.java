@@ -11,5 +11,6 @@ public class Streamofnumberssum {
             n=sc.nextInt();
         }
         System.out.println("The sum of the entered stream of numbers = "+sum);
+        sc.close();
     }
 }
