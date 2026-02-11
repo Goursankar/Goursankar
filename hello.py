@@ -1,0 +1,1 @@
+print("Hello welcome python to my life this is our 1st meeting hope we get along well")
